@@ -1,0 +1,10 @@
+STUDY        PRJEB110793
+SAMPLE       ERS30315679
+NAME         Laura_1_S1
+INSTRUMENT   NextSeq 2000
+INSERT_SIZE  300
+LIBRARY_SOURCE    TRANSCRIPTOMIC
+LIBRARY_SELECTION unspecified
+LIBRARY_STRATEGY  ssRNA-seq
+FASTQ        Laura_1_S1_R1_001_trimmoNohuman_1P.fq.gz
+FASTQ        Laura_1_S1_R1_001_trimmoNohuman_2P.fq.gz

@@ -1,0 +1,32 @@
+Checklist	ERC000011:1.5	ENA default sample checklist					
+tax_id	scientific_name	sample_alias	sample_title	sample_description	collection date	geographic location (country and/or sea)	culture_collection
+818	Bacteroides thetaiotaomicron	t_0.5h_0.3ug/ml mitC_R1	Laura_1_S1	t_0.5h_0.3ug/ml mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_0.5h_No mitC_R1	Laura_2_S2	t_0.5h_No mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_1.25h_0.3ug/ml mitC_R1	Laura_3_S3	t_1.25h_0.3ug/ml mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_1.25h_No mitC_R1	Laura_4_S4	t_1.25h_No mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_2.25h_0.3ug/ml mitC_R1	Laura_5_S5	t_2.25h_0.3ug/ml mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_2.25h_No mitC_R1	Laura_6_S6	t_2.25h_No mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_3.25h_0.3ug/ml mitC_R1	Laura_7_S7	t_3.25h_0.3ug/ml mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_3.25h_No mitC_R1	Laura_8_S8	t_3.25h_No mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_4.25h_0.3ug/ml mitC_R1	Laura_9_S9	t_4.25h_0.3ug/ml mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_4.25h_No mitC_R1	Laura_10_S10	t_4.25h_No mitC_R1	2022-08-10	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_0.5h_0.3ug/ml mitC_R2	Laura_11_S11	t_0.5h_0.3ug/ml mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_0.5h_No mitC_R2	Laura_12_S12	t_0.5h_No mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_1.25h_0.3ug/ml mitC_R2	Laura_13_S13	t_1.25h_0.3ug/ml mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_1.25h_No mitC_R2	Laura_14_S14	t_1.25h_No mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_2.25h_0.3ug/ml mitC_R2	Laura_15_S15	t_2.25h_0.3ug/ml mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_2.25h_No mitC_R2	Laura_16_S16	t_2.25h_No mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_3.25h_0.3ug/ml mitC_R2	Laura_17_S17	t_3.25h_0.3ug/ml mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_3.25h_No mitC_R2	Laura_18_S18	t_3.25h_No mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_4.25h_0.3ug/ml mitC_R2	Laura_19_S19	t_4.25h_0.3ug/ml mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_4.25h_No mitC_R2	Laura_20_S20	t_4.25h_No mitC_R2	2022-08-11	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_0.5h_0.3ug/ml mitC_R3	Laura_21_S21	t_0.5h_0.3ug/ml mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_0.5h_No mitC_R3	Laura_22_S22	t_0.5h_No mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_1.25h_0.3ug/ml mitC_R3	Laura_23_S23	t_1.25h_0.3ug/ml mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_1.25h_No mitC_R3	Laura_24_S24	t_1.25h_No mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_2.25h_0.3ug/ml mitC_R3	Laura_25_S25	t_2.25h_0.3ug/ml mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_2.25h_No mitC_R3	Laura_26_S26	t_2.25h_No mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_3.25h_0.3ug/ml mitC_R3	Laura_27_S27	t_3.25h_0.3ug/ml mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_3.25h_No mitC_R3	Laura_28_S28	t_3.25h_No mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_4.25h_0.3ug/ml mitC_R3	Laura_29_S29	t_4.25h_0.3ug/ml mitC_R3	2022-08-12	Australia	CC00806
+818	Bacteroides thetaiotaomicron	t_4.25h_No mitC_R3	Laura_30_S30	t_4.25h_No mitC_R3	2022-08-12	Australia	CC00806
